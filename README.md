@@ -4,30 +4,29 @@ The Hen Tracking project involves annotating frames using Ultralytics Auto Annot
 
 0. Directory structure:
     Hen Tracking
-    |_data
-    |   |_frames
-    |   |   |_frame_0.jpg, frame_1.jpg, ..., frame_204.jpg
-    |   |_video
-    |       |_video.mkv
-    |
-    |_train
-    |   |_images
-    |   |   |_ first 190 images
-    |   |_labels 
-    |
-    |_test
-    |   |_images
-    |   |   |_ remaining 20 images
-    |   |_labels
-    |
-    |_annotate.py
-    |
-    |_get_stuff.py
-    |
-    |_track.py
-    |
-    |_data.yaml
-
+    ├── data
+    │   ├── frames
+    │   │   ├── frame_0.jpg, frame_1.jpg, ..., frame_204.jpg
+    │   ├── video
+    │   │   └── video.mkv
+    │
+    ├── train
+    │   ├── images
+    │   │   ├── first 190 images
+    │   ├── labels 
+    │
+    ├── test
+    │   ├── images
+    │   │   ├── remaining 20 images
+    │   ├── labels
+    │
+    ├── annotate.py
+    │
+    ├── get_stuff.py
+    │
+    ├── track.py
+    │
+    └── data.yaml
 
 1. Annotated the frames using `ultralytics auto annotator`
 
