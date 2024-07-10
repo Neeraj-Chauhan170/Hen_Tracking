@@ -6,27 +6,24 @@ The Hen Tracking project involves annotating frames using Ultralytics Auto Annot
     Hen Tracking
     ├── data
     │   ├── frames
-    │   │   ├── frame_0.jpg, frame_1.jpg, ..., frame_204.jpg
+    │   │   ├── frame_0.jpg
+    │   │   ├── frame_1.jpg
+    │   │   └── frame_204.jpg
     │   ├── video
     │   │   └── video.mkv
-    │
     ├── train
     │   ├── images
-    │   │   ├── first 190 images
+    │   │   └── first 190 images
     │   ├── labels 
-    │
     ├── test
     │   ├── images
-    │   │   ├── remaining 20 images
+    │   │   └── remaining 20 images
     │   ├── labels
-    │
     ├── annotate.py
-    │
     ├── get_stuff.py
-    │
     ├── track.py
-    │
     └── data.yaml
+
 
 1. Annotated the frames using `ultralytics auto annotator`
 
