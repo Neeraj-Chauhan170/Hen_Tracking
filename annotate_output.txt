@@ -1,0 +1,211 @@
+(ultralytics) [neerajchauhan0@headnode01 DL_ultralytics]$ python annotate.py 
+/home/neerajchauhan/mambaforge/envs/ultralytics/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+
+image 1/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_0.jpg: 384x640 10 birds, 1 cup, 87.6ms
+image 2/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_1.jpg: 384x640 11 birds, 1 cup, 18.0ms
+image 3/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_10.jpg: 384x640 9 birds, 1 cup, 39.8ms
+image 4/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_100.jpg: 384x640 16 birds, 1 cup, 20.3ms
+image 5/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_101.jpg: 384x640 16 birds, 1 cup, 40.1ms
+image 6/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_102.jpg: 384x640 16 birds, 1 cup, 44.5ms
+image 7/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_103.jpg: 384x640 16 birds, 1 cup, 40.4ms
+image 8/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_104.jpg: 384x640 14 birds, 1 cup, 18.3ms
+image 9/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_105.jpg: 384x640 16 birds, 1 cup, 19.6ms
+image 10/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_106.jpg: 384x640 16 birds, 1 cup, 20.4ms
+image 11/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_107.jpg: 384x640 17 birds, 1 cup, 18.7ms
+image 12/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_108.jpg: 384x640 16 birds, 1 cup, 23.5ms
+image 13/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_109.jpg: 384x640 15 birds, 1 cup, 16.7ms
+image 14/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_11.jpg: 384x640 11 birds, 1 cup, 21.2ms
+image 15/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_110.jpg: 384x640 15 birds, 1 cup, 19.2ms
+image 16/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_111.jpg: 384x640 15 birds, 1 cup, 19.1ms
+image 17/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_112.jpg: 384x640 15 birds, 1 cup, 17.4ms
+image 18/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_113.jpg: 384x640 15 birds, 1 cup, 22.4ms
+image 19/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_114.jpg: 384x640 15 birds, 1 cup, 29.1ms
+image 20/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_115.jpg: 384x640 14 birds, 1 cup, 21.3ms
+image 21/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_116.jpg: 384x640 5 birds, 1 cup, 32.7ms
+image 22/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_117.jpg: 384x640 6 birds, 27.4ms
+image 23/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_118.jpg: 384x640 7 birds, 31.7ms
+image 24/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_119.jpg: 384x640 9 birds, 18.8ms
+image 25/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_12.jpg: 384x640 9 birds, 1 cup, 59.6ms
+image 26/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_120.jpg: 384x640 8 birds, 35.3ms
+image 27/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_121.jpg: 384x640 7 birds, 24.3ms
+image 28/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_122.jpg: 384x640 7 birds, 62.8ms
+image 29/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_123.jpg: 384x640 12 birds, 47.7ms
+image 30/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_124.jpg: 384x640 7 birds, 22.1ms
+image 31/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_125.jpg: 384x640 5 birds, 1 cup, 18.0ms
+image 32/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_126.jpg: 384x640 8 birds, 1 cup, 19.5ms
+image 33/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_127.jpg: 384x640 5 birds, 1 cup, 42.1ms
+image 34/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_128.jpg: 384x640 6 birds, 1 cup, 18.9ms
+image 35/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_129.jpg: 384x640 11 birds, 1 cup, 18.9ms
+image 36/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_13.jpg: 384x640 9 birds, 1 cup, 23.0ms
+image 37/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_130.jpg: 384x640 12 birds, 1 cup, 22.5ms
+image 38/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_131.jpg: 384x640 10 birds, 1 cup, 48.8ms
+image 39/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_132.jpg: 384x640 10 birds, 1 cup, 18.0ms
+image 40/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_133.jpg: 384x640 11 birds, 1 cup, 17.7ms
+image 41/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_134.jpg: 384x640 12 birds, 1 cup, 43.6ms
+image 42/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_135.jpg: 384x640 14 birds, 1 cup, 27.0ms
+image 43/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_136.jpg: 384x640 12 birds, 1 cup, 20.5ms
+image 44/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_137.jpg: 384x640 15 birds, 1 cup, 21.7ms
+image 45/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_138.jpg: 384x640 14 birds, 1 cup, 19.3ms
+image 46/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_139.jpg: 384x640 12 birds, 23.5ms
+image 47/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_14.jpg: 384x640 10 birds, 1 cup, 40.8ms
+image 48/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_140.jpg: 384x640 12 birds, 1 cup, 21.9ms
+image 49/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_141.jpg: 384x640 10 birds, 23.6ms
+image 50/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_142.jpg: 384x640 11 birds, 33.9ms
+image 51/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_143.jpg: 384x640 11 birds, 28.0ms
+image 52/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_144.jpg: 384x640 12 birds, 20.0ms
+image 53/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_145.jpg: 384x640 10 birds, 21.4ms
+image 54/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_146.jpg: 384x640 9 birds, 20.3ms
+image 55/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_147.jpg: 384x640 11 birds, 38.1ms
+image 56/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_148.jpg: 384x640 12 birds, 1 cup, 18.0ms
+image 57/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_149.jpg: 384x640 10 birds, 20.7ms
+image 58/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_15.jpg: 384x640 10 birds, 1 cup, 40.6ms
+image 59/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_150.jpg: 384x640 11 birds, 1 cup, 18.0ms
+image 60/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_151.jpg: 384x640 12 birds, 1 cup, 17.7ms
+image 61/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_152.jpg: 384x640 11 birds, 1 cup, 41.7ms
+image 62/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_153.jpg: 384x640 11 birds, 1 cup, 18.0ms
+image 63/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_154.jpg: 384x640 11 birds, 1 cup, 20.3ms
+image 64/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_155.jpg: 384x640 11 birds, 19.0ms
+image 65/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_156.jpg: 384x640 10 birds, 1 cup, 16.5ms
+image 66/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_157.jpg: 384x640 11 birds, 1 cup, 21.5ms
+image 67/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_158.jpg: 384x640 11 birds, 1 cup, 18.1ms
+image 68/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_159.jpg: 384x640 11 birds, 1 cup, 21.4ms
+image 69/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_16.jpg: 384x640 9 birds, 1 cup, 19.5ms
+image 70/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_160.jpg: 384x640 11 birds, 1 cup, 21.9ms
+image 71/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_161.jpg: 384x640 14 birds, 1 cup, 22.1ms
+image 72/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_162.jpg: 384x640 13 birds, 1 cup, 20.3ms
+image 73/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_163.jpg: 384x640 13 birds, 45.9ms
+image 74/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_164.jpg: 384x640 13 birds, 65.4ms
+image 75/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_165.jpg: 384x640 13 birds, 61.3ms
+image 76/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_166.jpg: 384x640 12 birds, 22.7ms
+image 77/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_167.jpg: 384x640 11 birds, 40.3ms
+image 78/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_168.jpg: 384x640 10 birds, 38.1ms
+image 79/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_169.jpg: 384x640 9 birds, 17.4ms
+image 80/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_17.jpg: 384x640 10 birds, 1 cup, 16.7ms
+image 81/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_170.jpg: 384x640 9 birds, 20.3ms
+image 82/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_171.jpg: 384x640 8 birds, 32.0ms
+image 83/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_172.jpg: 384x640 10 birds, 51.4ms
+image 84/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_173.jpg: 384x640 10 birds, 58.3ms
+image 85/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_174.jpg: 384x640 11 birds, 19.6ms
+image 86/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_175.jpg: 384x640 11 birds, 19.4ms
+image 87/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_176.jpg: 384x640 13 birds, 20.3ms
+image 88/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_177.jpg: 384x640 11 birds, 20.4ms
+image 89/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_178.jpg: 384x640 13 birds, 25.1ms
+image 90/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_179.jpg: 384x640 12 birds, 21.0ms
+image 91/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_18.jpg: 384x640 11 birds, 1 cup, 28.6ms
+image 92/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_180.jpg: 384x640 11 birds, 39.6ms
+image 93/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_181.jpg: 384x640 13 birds, 18.7ms
+image 94/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_182.jpg: 384x640 14 birds, 26.2ms
+image 95/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_183.jpg: 384x640 14 birds, 22.3ms
+image 96/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_184.jpg: 384x640 14 birds, 18.8ms
+image 97/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_185.jpg: 384x640 13 birds, 23.9ms
+image 98/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_186.jpg: 384x640 14 birds, 23.6ms
+image 99/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_187.jpg: 384x640 14 birds, 25.5ms
+image 100/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_188.jpg: 384x640 16 birds, 21.1ms
+image 101/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_189.jpg: 384x640 11 birds, 1 cup, 19.7ms
+image 102/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_19.jpg: 384x640 11 birds, 1 cup, 20.5ms
+image 103/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_190.jpg: 384x640 14 birds, 20.1ms
+image 104/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_191.jpg: 384x640 12 birds, 1 cup, 18.8ms
+image 105/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_192.jpg: 384x640 12 birds, 1 cup, 76.5ms
+image 106/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_193.jpg: 384x640 13 birds, 1 cup, 22.4ms
+image 107/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_194.jpg: 384x640 13 birds, 24.9ms
+image 108/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_195.jpg: 384x640 14 birds, 1 cup, 31.3ms
+image 109/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_196.jpg: 384x640 13 birds, 21.1ms
+image 110/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_197.jpg: 384x640 13 birds, 57.4ms
+image 111/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_198.jpg: 384x640 13 birds, 36.9ms
+image 112/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_199.jpg: 384x640 10 birds, 1 cup, 23.4ms
+image 113/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_2.jpg: 384x640 10 birds, 1 cup, 22.5ms
+image 114/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_20.jpg: 384x640 10 birds, 1 cup, 23.0ms
+image 115/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_200.jpg: 384x640 12 birds, 1 cup, 24.6ms
+image 116/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_201.jpg: 384x640 9 birds, 1 cup, 22.4ms
+image 117/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_202.jpg: 384x640 11 birds, 1 cup, 22.2ms
+image 118/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_203.jpg: 384x640 11 birds, 1 cup, 21.6ms
+image 119/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_204.jpg: 384x640 12 birds, 1 cup, 18.4ms
+image 120/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_21.jpg: 384x640 12 birds, 1 cup, 18.3ms
+image 121/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_22.jpg: 384x640 11 birds, 1 cup, 16.4ms
+image 122/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_23.jpg: 384x640 13 birds, 25.0ms
+image 123/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_24.jpg: 384x640 12 birds, 1 cup, 22.5ms
+image 124/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_25.jpg: 384x640 14 birds, 1 cup, 22.2ms
+image 125/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_26.jpg: 384x640 13 birds, 1 cup, 44.3ms
+image 126/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_27.jpg: 384x640 13 birds, 54.3ms
+image 127/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_28.jpg: 384x640 11 birds, 1 cup, 39.8ms
+image 128/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_29.jpg: 384x640 14 birds, 1 cup, 17.2ms
+image 129/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_3.jpg: 384x640 8 birds, 1 cup, 33.5ms
+image 130/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_30.jpg: 384x640 10 birds, 1 cup, 19.1ms
+image 131/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_31.jpg: 384x640 11 birds, 1 cup, 38.9ms
+image 132/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_32.jpg: 384x640 11 birds, 1 cup, 47.0ms
+image 133/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_33.jpg: 384x640 14 birds, 1 cup, 32.0ms
+image 134/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_34.jpg: 384x640 11 birds, 1 cup, 21.4ms
+image 135/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_35.jpg: 384x640 11 birds, 1 cup, 36.4ms
+image 136/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_36.jpg: 384x640 13 birds, 1 cup, 21.4ms
+image 137/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_37.jpg: 384x640 13 birds, 1 cup, 20.4ms
+image 138/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_38.jpg: 384x640 11 birds, 1 cup, 19.0ms
+image 139/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_39.jpg: 384x640 11 birds, 1 cup, 20.9ms
+image 140/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_4.jpg: 384x640 12 birds, 1 cup, 19.3ms
+image 141/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_40.jpg: 384x640 10 birds, 1 cup, 21.7ms
+image 142/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_41.jpg: 384x640 11 birds, 1 cup, 18.5ms
+image 143/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_42.jpg: 384x640 11 birds, 1 cup, 19.6ms
+image 144/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_43.jpg: 384x640 9 birds, 1 cup, 23.7ms
+image 145/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_44.jpg: 384x640 11 birds, 1 cup, 23.2ms
+image 146/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_45.jpg: 384x640 10 birds, 1 cup, 62.9ms
+image 147/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_46.jpg: 384x640 10 birds, 1 cup, 22.4ms
+image 148/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_47.jpg: 384x640 8 birds, 45.9ms
+image 149/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_48.jpg: 384x640 10 birds, 21.5ms
+image 150/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_49.jpg: 384x640 8 birds, 52.4ms
+image 151/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_5.jpg: 384x640 13 birds, 1 cup, 19.3ms
+image 152/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_50.jpg: 384x640 7 birds, 19.6ms
+image 153/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_51.jpg: 384x640 10 birds, 1 cup, 20.8ms
+image 154/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_52.jpg: 384x640 6 birds, 1 cup, 25.8ms
+image 155/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_53.jpg: 384x640 6 birds, 1 cup, 18.9ms
+image 156/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_54.jpg: 384x640 14 birds, 1 cup, 31.7ms
+image 157/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_55.jpg: 384x640 11 birds, 1 cup, 16.3ms
+image 158/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_56.jpg: 384x640 9 birds, 1 cup, 22.1ms
+image 159/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_57.jpg: 384x640 12 birds, 1 cup, 55.7ms
+image 160/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_58.jpg: 384x640 13 birds, 1 cup, 18.7ms
+image 161/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_59.jpg: 384x640 11 birds, 1 cup, 19.2ms
+image 162/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_6.jpg: 384x640 11 birds, 1 cup, 17.5ms
+image 163/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_60.jpg: 384x640 14 birds, 1 cup, 34.7ms
+image 164/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_61.jpg: 384x640 13 birds, 1 cup, 17.1ms
+image 165/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_62.jpg: 384x640 7 birds, 1 cup, 17.6ms
+image 166/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_63.jpg: 384x640 10 birds, 1 cup, 20.1ms
+image 167/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_64.jpg: 384x640 15 birds, 1 cup, 19.6ms
+image 168/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_65.jpg: 384x640 15 birds, 1 cup, 20.4ms
+image 169/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_66.jpg: 384x640 15 birds, 1 cup, 37.2ms
+image 170/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_67.jpg: 384x640 16 birds, 1 cup, 26.8ms
+image 171/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_68.jpg: 384x640 15 birds, 1 cup, 19.1ms
+image 172/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_69.jpg: 384x640 15 birds, 1 cup, 34.6ms
+image 173/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_7.jpg: 384x640 11 birds, 1 cup, 18.1ms
+image 174/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_70.jpg: 384x640 15 birds, 1 cup, 19.7ms
+image 175/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_71.jpg: 384x640 14 birds, 1 cup, 23.2ms
+image 176/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_72.jpg: 384x640 12 birds, 1 cup, 20.9ms
+image 177/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_73.jpg: 384x640 11 birds, 1 cup, 18.5ms
+image 178/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_74.jpg: 384x640 9 birds, 1 cup, 29.8ms
+image 179/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_75.jpg: 384x640 9 birds, 1 cup, 38.1ms
+image 180/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_76.jpg: 384x640 9 birds, 1 cup, 18.5ms
+image 181/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_77.jpg: 384x640 14 birds, 1 cup, 20.6ms
+image 182/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_78.jpg: 384x640 15 birds, 1 cup, 22.8ms
+image 183/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_79.jpg: 384x640 14 birds, 1 cup, 37.6ms
+image 184/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_8.jpg: 384x640 10 birds, 1 cup, 17.9ms
+image 185/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_80.jpg: 384x640 13 birds, 1 cup, 17.0ms
+image 186/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_81.jpg: 384x640 15 birds, 1 cup, 58.3ms
+image 187/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_82.jpg: 384x640 14 birds, 1 cup, 26.7ms
+image 188/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_83.jpg: 384x640 14 birds, 1 cup, 37.8ms
+image 189/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_84.jpg: 384x640 14 birds, 1 cup, 22.5ms
+image 190/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_85.jpg: 384x640 14 birds, 1 cup, 22.0ms
+image 191/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_86.jpg: 384x640 13 birds, 1 cup, 18.3ms
+image 192/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_87.jpg: 384x640 12 birds, 1 cup, 23.0ms
+image 193/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_88.jpg: 384x640 15 birds, 1 cup, 26.2ms
+image 194/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_89.jpg: 384x640 13 birds, 1 cup, 28.8ms
+image 195/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_9.jpg: 384x640 9 birds, 1 cup, 20.9ms
+image 196/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_90.jpg: 384x640 14 birds, 1 cup, 21.3ms
+image 197/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_91.jpg: 384x640 14 birds, 1 cup, 19.8ms
+image 198/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_92.jpg: 384x640 15 birds, 1 cup, 44.7ms
+image 199/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_93.jpg: 384x640 15 birds, 1 cup, 38.2ms
+image 200/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_94.jpg: 384x640 15 birds, 1 cup, 18.7ms
+image 201/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_95.jpg: 384x640 14 birds, 1 cup, 27.0ms
+image 202/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_96.jpg: 384x640 15 birds, 24.4ms
+image 203/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_97.jpg: 384x640 15 birds, 1 cup, 19.3ms
+image 204/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_98.jpg: 384x640 16 birds, 21.0ms
+image 205/205 /Users/neerajchauhan/Documents/Masters/Semester 3/DL For biomedical app/Hen Tracking/data/frames/frame_99.jpg: 384x640 15 birds, 1 cup, 20.6ms
+Speed: 3.3ms preprocess, 27.3ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+(ultralytics) [neerajchauhan@headnode01 DL_ultralytics]$

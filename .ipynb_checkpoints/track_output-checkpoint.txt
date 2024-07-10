@@ -1,0 +1,633 @@
+(ultralytics) [neerajchauhan@headnode01 DL_ultralytics]$ python track.py
+requirements: Ultralytics requirement ['lapx>=0.5.2'] not found, attempting AutoUpdate...
+Looking in indexes: https://pypi.org/simple, https://git.imp.fu-berlin.de/api/v4/projects/6392/packages/pypi/simple
+Collecting lapx>=0.5.2
+  Downloading lapx-0.5.9.post1-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (6.1 kB)
+Requirement already satisfied: numpy>=1.21.6 in /home/neerajchauhan/mambaforge/envs/ultralytics/lib/python3.12/site-packages (from lapx>=0.5.2) (1.26.4)
+Downloading lapx-0.5.9.post1-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.7/1.7 MB 32.7 MB/s eta 0:00:00
+Installing collected packages: lapx
+Successfully installed lapx-0.5.9.post1
+
+requirements: AutoUpdate success ✅ 2.7s, installed 1 package: ['lapx>=0.5.2']
+requirements: ⚠️ Restart runtime or rerun command for updates to take effect
+
+/home/neerajchauhan/mambaforge/envs/ultralytics/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+
+0: 384x640 11 hens, 96.7ms
+Speed: 8.3ms preprocess, 96.7ms inference, 95.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 20.2ms
+Speed: 5.0ms preprocess, 20.2ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 54.0ms
+Speed: 2.5ms preprocess, 54.0ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 21.2ms
+Speed: 2.5ms preprocess, 21.2ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 20.5ms
+Speed: 4.1ms preprocess, 20.5ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 21.2ms
+Speed: 2.1ms preprocess, 21.2ms inference, 5.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 26.2ms
+Speed: 3.2ms preprocess, 26.2ms inference, 4.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 19.8ms
+Speed: 2.7ms preprocess, 19.8ms inference, 39.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 21.5ms
+Speed: 3.8ms preprocess, 21.5ms inference, 4.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 47.7ms
+Speed: 3.7ms preprocess, 47.7ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 22.0ms
+Speed: 4.3ms preprocess, 22.0ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 4.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 19.6ms
+Speed: 3.3ms preprocess, 19.6ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 20.0ms
+Speed: 3.6ms preprocess, 20.0ms inference, 5.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 19.9ms
+Speed: 2.6ms preprocess, 19.9ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 20.1ms
+Speed: 3.0ms preprocess, 20.1ms inference, 5.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 49.3ms
+Speed: 4.2ms preprocess, 49.3ms inference, 2.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 39.2ms
+Speed: 9.3ms preprocess, 39.2ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 40.6ms
+Speed: 2.3ms preprocess, 40.6ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 34.3ms
+Speed: 2.8ms preprocess, 34.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 19.8ms
+Speed: 5.5ms preprocess, 19.8ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 19.7ms
+Speed: 3.3ms preprocess, 19.7ms inference, 6.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 21.3ms
+Speed: 3.0ms preprocess, 21.3ms inference, 5.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 25.8ms
+Speed: 3.4ms preprocess, 25.8ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.1ms
+Speed: 5.2ms preprocess, 20.1ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 21.5ms
+Speed: 4.3ms preprocess, 21.5ms inference, 4.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 42.0ms
+Speed: 3.0ms preprocess, 42.0ms inference, 3.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.9ms
+Speed: 2.2ms preprocess, 19.9ms inference, 3.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.8ms
+Speed: 4.2ms preprocess, 19.8ms inference, 2.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.2ms
+Speed: 2.6ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.6ms
+Speed: 2.5ms preprocess, 20.6ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.2ms
+Speed: 2.1ms preprocess, 20.2ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 45.4ms
+Speed: 2.8ms preprocess, 45.4ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 30.1ms
+Speed: 17.8ms preprocess, 30.1ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.1ms
+Speed: 12.9ms preprocess, 20.1ms inference, 12.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 21.8ms
+Speed: 2.4ms preprocess, 21.8ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.5ms
+Speed: 4.5ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 24.0ms
+Speed: 3.2ms preprocess, 24.0ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 23.1ms
+Speed: 3.1ms preprocess, 23.1ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 20.3ms
+Speed: 3.2ms preprocess, 20.3ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 19.7ms
+Speed: 3.5ms preprocess, 19.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 19.7ms
+Speed: 3.1ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 23.0ms
+Speed: 5.2ms preprocess, 23.0ms inference, 4.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.8ms
+Speed: 2.4ms preprocess, 19.8ms inference, 4.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.6ms
+Speed: 4.5ms preprocess, 20.6ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 19.7ms
+Speed: 3.7ms preprocess, 19.7ms inference, 3.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 21.0ms
+Speed: 2.7ms preprocess, 21.0ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 46.9ms
+Speed: 3.4ms preprocess, 46.9ms inference, 48.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 25.4ms
+Speed: 2.6ms preprocess, 25.4ms inference, 7.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.7ms
+Speed: 2.8ms preprocess, 19.7ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 20.2ms
+Speed: 4.6ms preprocess, 20.2ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.7ms
+Speed: 4.5ms preprocess, 19.7ms inference, 4.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 5.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 47.5ms
+Speed: 2.9ms preprocess, 47.5ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.1ms
+Speed: 2.9ms preprocess, 20.1ms inference, 5.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 43.9ms
+Speed: 4.2ms preprocess, 43.9ms inference, 4.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.0ms
+Speed: 2.3ms preprocess, 20.0ms inference, 2.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.9ms
+Speed: 2.1ms preprocess, 19.9ms inference, 42.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.7ms
+Speed: 3.9ms preprocess, 19.7ms inference, 2.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 21.3ms
+Speed: 3.9ms preprocess, 21.3ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 50.7ms
+Speed: 10.1ms preprocess, 50.7ms inference, 4.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 35.2ms
+Speed: 3.2ms preprocess, 35.2ms inference, 6.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.9ms
+Speed: 3.4ms preprocess, 19.9ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.9ms
+Speed: 3.2ms preprocess, 19.9ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 20.2ms
+Speed: 2.5ms preprocess, 20.2ms inference, 3.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.7ms
+Speed: 3.2ms preprocess, 19.7ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.8ms
+Speed: 4.1ms preprocess, 19.8ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.7ms
+Speed: 2.9ms preprocess, 19.7ms inference, 5.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.0ms
+Speed: 2.8ms preprocess, 20.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.2ms
+Speed: 4.3ms preprocess, 20.2ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 26.2ms
+Speed: 11.9ms preprocess, 26.2ms inference, 8.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 31.7ms
+Speed: 6.2ms preprocess, 31.7ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 23.0ms
+Speed: 3.1ms preprocess, 23.0ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 45.9ms
+Speed: 4.1ms preprocess, 45.9ms inference, 6.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.9ms
+Speed: 3.3ms preprocess, 19.9ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 4.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.7ms
+Speed: 4.4ms preprocess, 20.7ms inference, 4.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.3ms
+Speed: 4.3ms preprocess, 20.3ms inference, 4.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.7ms
+Speed: 4.7ms preprocess, 19.7ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 27.1ms
+Speed: 17.8ms preprocess, 27.1ms inference, 9.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.8ms
+Speed: 3.5ms preprocess, 19.8ms inference, 5.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 23.7ms
+Speed: 4.4ms preprocess, 23.7ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.1ms
+Speed: 5.5ms preprocess, 20.1ms inference, 9.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.6ms
+Speed: 2.8ms preprocess, 19.6ms inference, 2.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 27.9ms
+Speed: 2.4ms preprocess, 27.9ms inference, 8.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.7ms
+Speed: 2.7ms preprocess, 19.7ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 21.6ms
+Speed: 4.1ms preprocess, 21.6ms inference, 3.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 24.6ms
+Speed: 2.8ms preprocess, 24.6ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 34.7ms
+Speed: 4.6ms preprocess, 34.7ms inference, 17.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 40.1ms
+Speed: 3.2ms preprocess, 40.1ms inference, 4.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.9ms
+Speed: 3.9ms preprocess, 19.9ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.9ms
+Speed: 7.8ms preprocess, 19.9ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 43.2ms
+Speed: 3.6ms preprocess, 43.2ms inference, 4.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 21.4ms
+Speed: 11.5ms preprocess, 21.4ms inference, 4.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 30.4ms
+Speed: 3.6ms preprocess, 30.4ms inference, 5.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.6ms
+Speed: 3.0ms preprocess, 19.6ms inference, 2.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.7ms
+Speed: 2.8ms preprocess, 19.7ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 hens, 19.7ms
+Speed: 3.3ms preprocess, 19.7ms inference, 8.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 hens, 19.6ms
+Speed: 3.8ms preprocess, 19.6ms inference, 2.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 hens, 19.9ms
+Speed: 4.2ms preprocess, 19.9ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 hens, 19.9ms
+Speed: 9.7ms preprocess, 19.9ms inference, 4.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 hens, 41.5ms
+Speed: 2.5ms preprocess, 41.5ms inference, 5.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 30.5ms
+Speed: 6.5ms preprocess, 30.5ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 24.3ms
+Speed: 5.0ms preprocess, 24.3ms inference, 5.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 20.4ms
+Speed: 3.0ms preprocess, 20.4ms inference, 4.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 19.7ms
+Speed: 3.5ms preprocess, 19.7ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 20.1ms
+Speed: 3.0ms preprocess, 20.1ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 19.8ms
+Speed: 3.3ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.1ms
+Speed: 3.4ms preprocess, 20.1ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 19.7ms
+Speed: 3.0ms preprocess, 19.7ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 11 hens, 20.9ms
+Speed: 3.2ms preprocess, 20.9ms inference, 4.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 19.6ms
+Speed: 2.8ms preprocess, 19.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 19.9ms
+Speed: 3.2ms preprocess, 19.9ms inference, 6.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 20.4ms
+Speed: 3.6ms preprocess, 20.4ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 12 hens, 20.2ms
+Speed: 2.9ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.9ms
+Speed: 3.9ms preprocess, 19.9ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.9ms
+Speed: 4.0ms preprocess, 19.9ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.8ms
+Speed: 3.9ms preprocess, 19.8ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.6ms
+Speed: 2.2ms preprocess, 19.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.7ms
+Speed: 2.7ms preprocess, 20.7ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.8ms
+Speed: 2.2ms preprocess, 20.8ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.7ms
+Speed: 3.0ms preprocess, 19.7ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.8ms
+Speed: 2.9ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.0ms
+Speed: 3.6ms preprocess, 20.0ms inference, 4.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.7ms
+Speed: 3.1ms preprocess, 19.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.8ms
+Speed: 3.4ms preprocess, 19.8ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.8ms
+Speed: 3.3ms preprocess, 19.8ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.7ms
+Speed: 2.8ms preprocess, 19.7ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.7ms
+Speed: 3.0ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.7ms
+Speed: 3.1ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 20.0ms
+Speed: 2.8ms preprocess, 20.0ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 3.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 32.8ms
+Speed: 2.2ms preprocess, 32.8ms inference, 2.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 20.6ms
+Speed: 3.7ms preprocess, 20.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.9ms
+Speed: 2.8ms preprocess, 19.9ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.9ms
+Speed: 2.1ms preprocess, 19.9ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 27.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.7ms
+Speed: 3.0ms preprocess, 20.7ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.1ms
+Speed: 3.1ms preprocess, 20.1ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.8ms
+Speed: 2.9ms preprocess, 19.8ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 36.1ms
+Speed: 2.5ms preprocess, 36.1ms inference, 4.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.0ms
+Speed: 2.3ms preprocess, 20.0ms inference, 4.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.2ms
+Speed: 4.2ms preprocess, 20.2ms inference, 5.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.0ms
+Speed: 4.8ms preprocess, 20.0ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 37.0ms
+Speed: 18.2ms preprocess, 37.0ms inference, 10.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.5ms
+Speed: 2.6ms preprocess, 20.5ms inference, 5.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 36.8ms
+Speed: 2.9ms preprocess, 36.8ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.7ms
+Speed: 3.9ms preprocess, 20.7ms inference, 23.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 23.8ms
+Speed: 4.2ms preprocess, 23.8ms inference, 19.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.9ms
+Speed: 3.4ms preprocess, 19.9ms inference, 4.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 25.2ms
+Speed: 13.2ms preprocess, 25.2ms inference, 19.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 20.4ms
+Speed: 4.1ms preprocess, 20.4ms inference, 24.7ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 13 hens, 24.5ms
+Speed: 3.7ms preprocess, 24.5ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 24.2ms
+Speed: 5.4ms preprocess, 24.2ms inference, 6.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 20.0ms
+Speed: 6.0ms preprocess, 20.0ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 19.9ms
+Speed: 3.0ms preprocess, 19.9ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 14 hens, 47.4ms
+Speed: 3.0ms preprocess, 47.4ms inference, 5.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 21.1ms
+Speed: 3.2ms preprocess, 21.1ms inference, 2.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.5ms
+Speed: 2.8ms preprocess, 20.5ms inference, 4.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 39.5ms
+Speed: 3.6ms preprocess, 39.5ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 20.4ms
+Speed: 3.6ms preprocess, 20.4ms inference, 46.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 22.4ms
+Speed: 3.5ms preprocess, 22.4ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 20.1ms
+Speed: 5.9ms preprocess, 20.1ms inference, 2.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 21.4ms
+Speed: 2.8ms preprocess, 21.4ms inference, 5.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 20.0ms
+Speed: 2.6ms preprocess, 20.0ms inference, 22.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.8ms
+Speed: 2.4ms preprocess, 19.8ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 61.9ms
+Speed: 3.3ms preprocess, 61.9ms inference, 4.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 4.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.9ms
+Speed: 3.1ms preprocess, 19.9ms inference, 3.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 20.0ms
+Speed: 3.6ms preprocess, 20.0ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 20.4ms
+Speed: 2.8ms preprocess, 20.4ms inference, 3.8ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.8ms
+Speed: 2.9ms preprocess, 19.8ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 22.2ms
+Speed: 5.4ms preprocess, 22.2ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 26.9ms
+Speed: 2.4ms preprocess, 26.9ms inference, 2.1ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.7ms
+Speed: 3.2ms preprocess, 19.7ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 20.3ms
+Speed: 4.5ms preprocess, 20.3ms inference, 4.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 16 hens, 19.7ms
+Speed: 2.1ms preprocess, 19.7ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 hens, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 hens, 20.1ms
+Speed: 4.0ms preprocess, 20.1ms inference, 5.3ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 hens, 19.6ms
+Speed: 3.0ms preprocess, 19.6ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 17 hens, 20.5ms
+Speed: 3.9ms preprocess, 20.5ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+
+0: 384x640 15 hens, 20.1ms
+Speed: 2.7ms preprocess, 20.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Video frame is empty or video processing has been successfully completed.
+(ultralytics) [neerajchauhan@headnode01 DL_ultralytics]$ 
