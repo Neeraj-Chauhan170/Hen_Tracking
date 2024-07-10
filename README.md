@@ -1,50 +1,7 @@
 # Hen_Tracking
 The Hen Tracking project involves annotating frames using Ultralytics Auto Annotator, structuring data for YOLOv8x-seg model training, and using the trained model for hen tracking in videos.
 
-
-0. Directory structure:
-
-   Hen Tracking
-
-    ├── data
-   
-    │   ├── frames
-   
-    │   │   ├── frame_0.jpg
-   
-    │   │   ├── frame_1.jpg
-   
-    │   │   └── frame_204.jpg
-   
-    │   ├── video
-   
-    │   │   └── video.mkv
-   
-    ├── train
-   
-    │   ├── images
-   
-    │   │   └── first 190 images
-   
-    │   ├── labels
-   
-    ├── test
-   
-    │   ├── images
-   
-    │   │   └── remaining 20 images
-   
-    │   ├── labels
-   
-    ├── annotate.py
-   
-    ├── get_stuff.py
-    
-    ├── track.py
-   
-    └── data.yaml
-
-2. Annotated the frames using `ultralytics auto annotator`
+1. Annotated the frames using `ultralytics auto annotator`
 
 -> Run `python annotate.py` (See output annotate_output.txt)
 
@@ -71,5 +28,3 @@ This will create a `runs` folder and all the metrics and model weights will be s
 -> Run `python track.py` (See output output_track.py, uncomment line no. 34 if you want to visualize the output alongside running)
 
 The final tracking video would be saved under the directory...
-
-Cheers...
