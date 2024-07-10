@@ -1,5 +1,7 @@
 # Hen_Tracking
-The Hen Tracking project involves annotating frames using Ultralytics Auto Annotator, structuring data for YOLOv8x-seg model training, and using the trained model for hen tracking in videos.
+
+This project focuses on automating the tracking of hens in a video using advanced deep learning techniques. It utilizes the YOLO (You Only Look Once) model for instance segmentation and tracking. The process begins with annotating frames to detect hens, organizing these annotations for training, and subsequently training a custom YOLO model for segmentation. Once trained, the model is applied to a video feed, where it segments and tracks individual hens in real-time. The output is a video with annotated tracks, facilitating efficient monitoring and analysis of hen behavior.
+
 
 1. Annotated the frames using `ultralytics auto annotator`
 
